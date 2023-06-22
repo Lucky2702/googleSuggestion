@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.title {
+  color: #475569;
+  font-size: 21px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.arrow-img {
+  height: 50px;
+  width: 50px;
+}
